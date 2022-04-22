@@ -1,6 +1,6 @@
 # Atom B.W UI
 Atom Dark Blue Theme Created by Bruce Wen(wenijinew)
 
-![Atom B.W UI](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+![Atom B.W UI](https://raw.githubusercontent.com/wenijinew/atom-bw-ui/main/resources/atom-bw-ui.jpg)
 
 Created based on ![ui-theme-template](https://github.com/atom-community/ui-theme-template)
